@@ -1,0 +1,33 @@
+body{
+    background-image:url(tech.jpg);
+    background-size: cover;
+    display: flex;
+    min-height: 100vh;
+    border: right 50%;
+    background-color: black;
+  font-family: cursive;
+}
+
+    
+
+
+.splash img {
+    border-radius: 90px;
+    display:block;
+    margin-left: 48%;
+    margin-top: 10%;
+    width: 50%;
+    height: 50%;
+    border: 5px solid #8D8C8C; 
+}
+ .Word {
+  color: whitesmoke;
+  font-size: 100px;
+  padding-left: 980pt ;
+  padding-top: 100px;
+  text-align: center;
+  font-family:"Chakra Petch", sans-serif;
+  
+ }
+
+
